@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Luis Flores (@lfloresPL)
+- 👀 I’m interested in Ruby, Ruby on Rails, and the Rails ecosystem
+- 🌱 I’m currently learning Dart and Flutter
